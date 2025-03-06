@@ -1,2 +1,3 @@
-# rust_leetcode_solutions
+# Rust LeetCode solutions
+
 Leet code solutions in Rust language
